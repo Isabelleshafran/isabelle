@@ -1,0 +1,2 @@
+.navbar{display:flex;flex-direction:column;align-items:center;border-bottom:1px solid #d3d3d3}.isabelle{color:#000;font-size:40px;margin-top:15px}.isabelle,.links{font-family:"Bebas Neue";display:flex;margin-bottom:15px}.links{flex-direction:row;justify-content:space-between;width:40%}.links>a,a{text-decoration:none}.links>a{color:#000;font-size:18px;font-weight:500}.links>a:hover{font-weight:700;text-decoration:underline;color:#ff5fa2}.splash{display:flex;align-content:stretch}
+/*# sourceMappingURL=main.ec75d3d3.chunk.css.map */

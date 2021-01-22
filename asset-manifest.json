@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/isabelle/static/css/main.82fc1583.chunk.css",
-    "main.js": "/isabelle/static/js/main.9f044ca6.chunk.js",
-    "main.js.map": "/isabelle/static/js/main.9f044ca6.chunk.js.map",
+    "main.css": "/isabelle/static/css/main.ec75d3d3.chunk.css",
+    "main.js": "/isabelle/static/js/main.94961d1c.chunk.js",
+    "main.js.map": "/isabelle/static/js/main.94961d1c.chunk.js.map",
     "runtime-main.js": "/isabelle/static/js/runtime-main.51f8b280.js",
     "runtime-main.js.map": "/isabelle/static/js/runtime-main.51f8b280.js.map",
-    "static/js/2.84e3fb51.chunk.js": "/isabelle/static/js/2.84e3fb51.chunk.js",
-    "static/js/2.84e3fb51.chunk.js.map": "/isabelle/static/js/2.84e3fb51.chunk.js.map",
+    "static/js/2.b8f48ea3.chunk.js": "/isabelle/static/js/2.b8f48ea3.chunk.js",
+    "static/js/2.b8f48ea3.chunk.js.map": "/isabelle/static/js/2.b8f48ea3.chunk.js.map",
     "index.html": "/isabelle/index.html",
-    "static/css/main.82fc1583.chunk.css.map": "/isabelle/static/css/main.82fc1583.chunk.css.map",
-    "static/js/2.84e3fb51.chunk.js.LICENSE.txt": "/isabelle/static/js/2.84e3fb51.chunk.js.LICENSE.txt"
+    "static/css/main.ec75d3d3.chunk.css.map": "/isabelle/static/css/main.ec75d3d3.chunk.css.map",
+    "static/js/2.b8f48ea3.chunk.js.LICENSE.txt": "/isabelle/static/js/2.b8f48ea3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.51f8b280.js",
-    "static/js/2.84e3fb51.chunk.js",
-    "static/css/main.82fc1583.chunk.css",
-    "static/js/main.9f044ca6.chunk.js"
+    "static/js/2.b8f48ea3.chunk.js",
+    "static/css/main.ec75d3d3.chunk.css",
+    "static/js/main.94961d1c.chunk.js"
   ]
 }
