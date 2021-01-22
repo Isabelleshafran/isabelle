@@ -11,10 +11,6 @@
     
 }
 
-.splash {
-    // overflow: auto;
-}
-
 .splash_image {
     position: absolute;
     width: 100vw;
@@ -26,8 +22,9 @@
     display: flex;
     margin-left: 8%;
     margin-top: 50px;
+    // font-family: "Slabo 27px";
+    letter-spacing: 3px;
     font-family: "Bebas Neue";
-    
     position: absolute;
     font-size: 30px;
 }

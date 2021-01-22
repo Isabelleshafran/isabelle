@@ -8,6 +8,8 @@
 .isabelle {
     color: black;
     font-family: "Bebas Neue";
+    letter-spacing: 3px;
+
     font-size: 40px;
     display: flex; 
     margin-bottom: 15px;
@@ -16,7 +18,8 @@
 
 
 .links {
-    font-family: "Bebas Neue";
+    font-family: "Slabo 27px";
+
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -37,6 +40,5 @@ a {
 }
 .links > a:hover {
     font-weight: bold;
-    text-decoration: underline;
-    color: #edccda;
+    color: #D27FA1;
 }
