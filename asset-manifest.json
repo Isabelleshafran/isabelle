@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/isabelle/static/css/main.5f66e024.chunk.css",
+    "main.css": "/isabelle/static/css/main.823c18d4.chunk.css",
     "main.js": "/isabelle/static/js/main.ed86fa37.chunk.js",
     "main.js.map": "/isabelle/static/js/main.ed86fa37.chunk.js.map",
     "runtime-main.js": "/isabelle/static/js/runtime-main.51f8b280.js",
@@ -8,7 +8,7 @@
     "static/js/2.b8f48ea3.chunk.js": "/isabelle/static/js/2.b8f48ea3.chunk.js",
     "static/js/2.b8f48ea3.chunk.js.map": "/isabelle/static/js/2.b8f48ea3.chunk.js.map",
     "index.html": "/isabelle/index.html",
-    "static/css/main.5f66e024.chunk.css.map": "/isabelle/static/css/main.5f66e024.chunk.css.map",
+    "static/css/main.823c18d4.chunk.css.map": "/isabelle/static/css/main.823c18d4.chunk.css.map",
     "static/js/2.b8f48ea3.chunk.js.LICENSE.txt": "/isabelle/static/js/2.b8f48ea3.chunk.js.LICENSE.txt",
     "static/media/CharmandersRevenge.ead7658e.png": "/isabelle/static/media/CharmandersRevenge.ead7658e.png",
     "static/media/DAYA.817b924b.png": "/isabelle/static/media/DAYA.817b924b.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.51f8b280.js",
     "static/js/2.b8f48ea3.chunk.js",
-    "static/css/main.5f66e024.chunk.css",
+    "static/css/main.823c18d4.chunk.css",
     "static/js/main.ed86fa37.chunk.js"
   ]
 }
