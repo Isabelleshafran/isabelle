@@ -7,7 +7,9 @@ import SplashImage from '../stylesheets/splashimage.jpg'
 const Splash = () => {
   return (
     <div className="splash">
-      <img className="splash-image" src={SplashImage}/>
+      <img className="splash_image" src={SplashImage} />
+
+      <span className="aboutme">ABOUT ME</span>
 
       <span className="splash-text">
         In the midst of launching global ad campaigns for Land Rover the world
