@@ -2,6 +2,10 @@
 
 .splash {
     display: flex;
-    align-content: stretch;
+    justify-content: center;
 }
 
+span {
+    font-family: "Slabo 27px";
+    max-width: 40%;
+}

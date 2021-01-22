@@ -9,10 +9,11 @@ const Navbar = () => {
         <Link to={'/'}><div className="isabelle">ISABELLE SHAFRAN</div></Link>
 
         <div className="links">
-          <a href="http://www.github.com/isabelleshafran">Github</a>
-          <a href="https://www.linkedin.com/in/isabelleshafran/">Linkedin</a>
-          <a href="https://angel.co/u/isabelle-shafran">AngelList</a>
+          <a target="_blank" rel="noreferrer" href="http://www.github.com/isabelleshafran">Github</a>
+          <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/isabelleshafran/">Linkedin</a>
+          <a target="_blank" rel="noreferrer" href="https://angel.co/u/isabelle-shafran">AngelList</a>
           <Link to={'/projects'}>Projects</Link>
+          <div>Add email</div>
         </div>
       </div>
     );
