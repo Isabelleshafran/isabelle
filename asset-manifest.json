@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/isabelle/static/css/main.823c18d4.chunk.css",
-    "main.js": "/isabelle/static/js/main.c872c1d4.chunk.js",
-    "main.js.map": "/isabelle/static/js/main.c872c1d4.chunk.js.map",
+    "main.js": "/isabelle/static/js/main.8e961736.chunk.js",
+    "main.js.map": "/isabelle/static/js/main.8e961736.chunk.js.map",
     "runtime-main.js": "/isabelle/static/js/runtime-main.51f8b280.js",
     "runtime-main.js.map": "/isabelle/static/js/runtime-main.51f8b280.js.map",
     "static/js/2.5a88604f.chunk.js": "/isabelle/static/js/2.5a88604f.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.51f8b280.js",
     "static/js/2.5a88604f.chunk.js",
     "static/css/main.823c18d4.chunk.css",
-    "static/js/main.c872c1d4.chunk.js"
+    "static/js/main.8e961736.chunk.js"
   ]
 }
