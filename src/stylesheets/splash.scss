@@ -3,9 +3,13 @@
 .splash {
     display: flex;
     justify-content: center;
+
 }
 
-span {
+.splash-text {
     font-family: "Slabo 27px";
-    max-width: 40%;
+    // max-width: 40%;
+    position: absolute;
+    //  color: rgb(255, 95, 162);
+    font-size: 30px;
 }
