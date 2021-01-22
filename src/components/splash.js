@@ -6,7 +6,7 @@ import '../stylesheets/splash.scss'
 const Splash = () => {
   return (
     <div className="splash">
-      <img className="splash-image" src="../../splash2.jpg" alt="splash" />
+      <img src="./splash.jpg" alt="splageimage"/>
     </div>
   );
 };

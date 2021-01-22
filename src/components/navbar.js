@@ -6,7 +6,7 @@ import "../stylesheets/navbar.scss";
 const Navbar = () => {
     return (
       <div className="navbar">
-        <div className="isabelle">ISABELLE SHAFRAN</div>
+        <Link to={'/'}><div className="isabelle">ISABELLE SHAFRAN</div></Link>
 
         <div className="links">
           <a href="http://www.github.com/isabelleshafran">Github</a>

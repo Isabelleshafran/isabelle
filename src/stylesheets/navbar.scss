@@ -6,14 +6,17 @@
 }
 
 .isabelle {
-    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    color: black;
+    font-family: "Bebas Neue";
     font-size: 40px;
     display: flex; 
     margin-bottom: 15px;
     margin-top: 15px;
 }
 
+
 .links {
+    font-family: "Bebas Neue";
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -23,12 +26,17 @@
 
 a {
     text-decoration: none;
+}
+
+.links > a {
+    text-decoration: none;
     color: black;
     font-size: 18px;
     font-weight: 500;
+    
 }
-
-a:hover {
+.links > a:hover {
     font-weight: bold;
     text-decoration: underline;
+    color: rgb(255, 95, 162);
 }
