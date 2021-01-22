@@ -13,8 +13,8 @@ const Navbar = () => {
           <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/isabelleshafran/">Linkedin</a>
           <a target="_blank" rel="noreferrer" href="https://angel.co/u/isabelle-shafran">AngelList</a>
           <Link to={'/projects'}>Projects</Link>
-          <div>Add email</div>
-        </div>
+          <a target="_blank" rel="noreferrer" href="mailto:isabelle.shafran@gmail.com">Email</a>
+        </div> 
       </div>
     );
 }

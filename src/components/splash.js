@@ -2,12 +2,13 @@ import React from "react";
 // import { Link } from "react-router-dom";
 import '../stylesheets/splash.scss'
 import SplashImage from '../stylesheets/splashimage.jpg'
+import ProfilePhoto from '../stylesheets/isabelle_shafran.png'
 
 
 const Splash = () => {
   return (
     <div className="splash">
-      <img className="splash_image" src={SplashImage} />
+      <img alt="splashimage" className="splash_image" src={SplashImage} />
 
       <span className="aboutme">ABOUT ME</span>
 
@@ -26,6 +27,8 @@ const Splash = () => {
         single-page applications: IntoTheGloss and DAYA, and one game utilizing
         HTML Canvas and Vanilla JS Charmander’s Revenge.
       </span>
+
+      <img alt="portfolio" className="profile_photo" src={ProfilePhoto} />
     </div>
   );
 };

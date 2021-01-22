@@ -2,7 +2,7 @@
 .splash-text {
     display: flex;
     line-height: 30px;
-    margin-left: 3%;
+    margin-left: 8%;
     margin-top: 100px;
     font-family: "Slabo 27px";
     max-width: 40%;
@@ -20,10 +20,19 @@
 
 .aboutme{
     display: flex;
-    margin-left: 3%;
+    margin-left: 8%;
     margin-top: 50px;
     font-family: "Bebas Neue";
     
     position: absolute;
     font-size: 30px;
+}
+
+.profile_photo {
+    position: absolute;
+    margin-left: 55%;
+    height: 420px;
+    margin-top: 50px;
+    border-radius: 20px;
+
 }
