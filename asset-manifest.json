@@ -1,25 +1,24 @@
 {
   "files": {
-    "main.css": "/isabelle/static/css/main.823c18d4.chunk.css",
-    "main.js": "/isabelle/static/js/main.8e961736.chunk.js",
-    "main.js.map": "/isabelle/static/js/main.8e961736.chunk.js.map",
+    "main.css": "/isabelle/static/css/main.682b5f17.chunk.css",
+    "main.js": "/isabelle/static/js/main.f4492296.chunk.js",
+    "main.js.map": "/isabelle/static/js/main.f4492296.chunk.js.map",
     "runtime-main.js": "/isabelle/static/js/runtime-main.51f8b280.js",
     "runtime-main.js.map": "/isabelle/static/js/runtime-main.51f8b280.js.map",
     "static/js/2.5a88604f.chunk.js": "/isabelle/static/js/2.5a88604f.chunk.js",
     "static/js/2.5a88604f.chunk.js.map": "/isabelle/static/js/2.5a88604f.chunk.js.map",
     "index.html": "/isabelle/index.html",
-    "static/css/main.823c18d4.chunk.css.map": "/isabelle/static/css/main.823c18d4.chunk.css.map",
+    "static/css/main.682b5f17.chunk.css.map": "/isabelle/static/css/main.682b5f17.chunk.css.map",
     "static/js/2.5a88604f.chunk.js.LICENSE.txt": "/isabelle/static/js/2.5a88604f.chunk.js.LICENSE.txt",
     "static/media/CharmandersRevenge.ead7658e.png": "/isabelle/static/media/CharmandersRevenge.ead7658e.png",
     "static/media/DAYA.817b924b.png": "/isabelle/static/media/DAYA.817b924b.png",
     "static/media/IntoTheGloss.ceb04ada.png": "/isabelle/static/media/IntoTheGloss.ceb04ada.png",
-    "static/media/isabelle_shafran.9e39f327.png": "/isabelle/static/media/isabelle_shafran.9e39f327.png",
-    "static/media/splashimage.5dca6be3.jpg": "/isabelle/static/media/splashimage.5dca6be3.jpg"
+    "static/media/isabelle_shafran.9e39f327.png": "/isabelle/static/media/isabelle_shafran.9e39f327.png"
   },
   "entrypoints": [
     "static/js/runtime-main.51f8b280.js",
     "static/js/2.5a88604f.chunk.js",
-    "static/css/main.823c18d4.chunk.css",
-    "static/js/main.8e961736.chunk.js"
+    "static/css/main.682b5f17.chunk.css",
+    "static/js/main.f4492296.chunk.js"
   ]
 }
