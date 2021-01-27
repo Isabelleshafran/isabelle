@@ -24,7 +24,7 @@ const Projects = () => {
       
       <div className="daya">
         <a className="headers" target="_blank" rel="noreferrer" href="http://daya-mern.herokuapp.com/#/">DAYA</a>
-          <span>A more social take on the tradtional calendar built using the MERN stack.</span>
+          <span>A more social take on the traditional calendar built using the MERN stack.</span>
 
           <a target="_blank" rel="noreferrer" href="http://daya-mern.herokuapp.com/#/">
             <img alt="daya" className="daya_image" src={DAYA}/>
